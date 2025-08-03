@@ -1,0 +1,13 @@
+{
+    "login": {
+        "urlCheck": "Проверка URL:",
+        "title": "Войти",
+        "emailLabel": "Эл. почта / Телефон",
+        "continue": "Далее",
+        "or": "или",
+        "google": "Продолжить с Google",
+        "apple": "Продолжить с Apple",
+        "createAccount": "Создать аккаунт Binance",
+        "cookies": "Настройка cookie"
+    }
+}

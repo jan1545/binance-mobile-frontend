@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="text"]::placeholder {
+    /* Цвет Placeholder */
+    color: #your_color;
+  }
+  
+  input[type="text"] {
+    /* Цвет текста */
+    color: white;
+  }
+
+  

@@ -1,0 +1,13 @@
+{
+    "login": {
+        "urlCheck": "Checking URL:",
+        "title": "Sign In",
+        "emailLabel": "Email / Phone",
+        "continue": "Continue",
+        "or": "or",
+        "google": "Continue with Google",
+        "apple": "Continue with Apple",
+        "createAccount": "Create Binance Account",
+        "cookies": "Cookie Settings"
+    }
+}
