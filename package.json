@@ -2,6 +2,12 @@
     "name": "binance-clone",
     "version": "1.0.0",
     "private": true,
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "npm install --legacy-peer-deps && react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
     "dependencies": {
         "@headlessui/react": "^2.0.4",
         "@heroicons/react": "^1.0.5",
@@ -19,12 +25,6 @@
     },
     "devDependencies": {
         "typescript": "^4.9.5"
-    },
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "npm install --legacy-peer-deps && react-scripts build",
-        "test": "react-scripts test",
-        "eject": "react-scripts eject"
     },
     "browserslist": {
         "production": [
